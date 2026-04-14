@@ -18,5 +18,9 @@ Planetary physicist working at the intersection of **remote sensing, radiative t
 - Climate-relevant processes (aerosols, radiation, convection)  
 - Research-grade, reproducible computational tools  
 
+### 🌌 Outreach
+- Astronomy outreach & public engagement  
+- Astrophotography: [@ox_stars](https://www.instagram.com/ox_stars/)
+
 ---  
 📫 Always open to collaborations in **planetary science, remote sensing, and AI for science**

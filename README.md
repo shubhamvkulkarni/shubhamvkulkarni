@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I’m Shubham
 
-<!--
-**shubhamvkulkarni/shubhamvkulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Planetary physicist working at the intersection of **remote sensing, radiative transfer, and scientific data analysis**. I build tools to extract physical insight from complex spacecraft datasets using **inverse modelling, forward simulations, and scalable pipelines**.
 
-Here are some ideas to get you started:
+### 🔬 Core Work
+- Radiative transfer modelling & retrievals (optimal estimation)
+- Spacecraft data calibration & analysis pipelines  
+- Python / Fortran workflows on Unix & HPC systems  
+- Model–data integration for atmospheric and planetary science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI & Data Systems
+- Building **AI-driven scientific workflows** using LLMs, embeddings, and vector databases  
+- Recent work (Cambridge): **Materials 4.0 system** for automated ontology generation and knowledge extraction  
+- Interested in combining **physics-based models + ML** for inverse problems and scientific discovery  
+
+### 🚀 Interests
+- Earth observation & planetary atmospheres  
+- Climate-relevant processes (aerosols, radiation, convection)  
+- Research-grade, reproducible computational tools  
+
+---  
+📫 Always open to collaborations in **planetary science, remote sensing, and AI for science**

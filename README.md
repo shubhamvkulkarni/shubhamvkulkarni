@@ -23,4 +23,4 @@ Planetary physicist working at the intersection of **remote sensing, radiative t
 - Astrophotography: [@ox_stars](https://www.instagram.com/ox_stars/)
 
 ---  
-📫 Always open to collaborations in **planetary science, remote sensing, and AI for science**
+📫 Always open to collaborations in **planetary physics, remote sensing, and AI for science**

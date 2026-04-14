@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Shubham
 
-Planetary physicist working at the intersection of **remote sensing, radiative transfer, and scientific data analysis**. I build tools to extract physical insight from complex spacecraft datasets using **inverse modelling, forward simulations, and scalable pipelines**.
+Planetary physicist working at the intersection of **remote sensing, radiative transfer, and scientific data analysis**. I build tools to extract physical insight from complex spacecraft datasets using **scalable pipelines, forward simulations, and inverse modelling**.
 
 ### 🔬 Core Work
 - Radiative transfer modelling & retrievals (optimal estimation)
@@ -10,7 +10,7 @@ Planetary physicist working at the intersection of **remote sensing, radiative t
 
 ### 🤖 AI & Data Systems
 - Building **AI-driven scientific workflows** using LLMs, embeddings, and vector databases  
-- Recent work (Cambridge): **Materials 4.0 system** for automated ontology generation and knowledge extraction  
+- Recent work (University of Cambridge): **Materials 4.0 Chatbot** for automated ontology generation and knowledge extraction  
 - Interested in combining **physics-based models + ML** for inverse problems and scientific discovery  
 
 ### 🚀 Interests
